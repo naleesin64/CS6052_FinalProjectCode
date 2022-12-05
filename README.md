@@ -5,3 +5,4 @@
 The following codes are my non-parallel and MPI parallel codes for the two root-finding methods and two numerical integration methods. 
 The codes with MPI parallel speedup has been added an MPI in front of its file name. 
 
+**Note that in order to run mpi4py module, Python version 3.8 is required and Python version 3.9 or above does not work**
